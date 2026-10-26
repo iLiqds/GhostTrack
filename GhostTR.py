@@ -79,7 +79,7 @@ def IP_Track():
 
 @is_option
 def phoneGW():
-    User_phone = input(
+    User_phone = input(+8613433192257
         f"\n {Wh}Enter phone number target {Gr}Ex [+6281xxxxxxxxx] {Wh}: {Gr}")  # INPUT NUMBER PHONE
     default_region = "ID"  # DEFAULT NEGARA INDONESIA
 
